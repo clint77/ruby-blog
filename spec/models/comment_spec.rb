@@ -1,7 +1,7 @@
 require 'rails_helper'
 
 describe Comment do
-  describe 'Validatins' do
+  describe 'Validations' do
     subject(:comment) { Comment.new }
     before { comment.valid? }
 
