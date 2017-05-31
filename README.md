@@ -1,6 +1,6 @@
 # Coding Forward Blog with Ruby, RSpec and Rails
 
-[![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/codeclimate/codeclimate)
+[![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/clint77/ruby-blog)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
