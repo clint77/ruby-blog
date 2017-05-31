@@ -8,7 +8,7 @@ This is my first attempt to create a Ruby app with Rails and RSpec
 
 * Ruby version ruby 2.4.0p0, RSpec version 3.6 and Rails version Rails 5.1.0 
 
-This will also serve as my learning blog or notes of everything I am trying to learn and be better at as a junior developer. Right now I am interested in doing a lot of ruby and rails app. I will also include here a step by step guide on I did this small project and all the difficulties I had encountered. 
+This will also serve as my learning blog or notes of everything I am trying to learn and be better at as a junior developer. Right now I am interested in doing a lot of ruby and rails app. I will also include here a step by step guide on how I did this small project and all the difficulties I had encountered. 
 
 ## Acknowledgments
 
