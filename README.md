@@ -2,7 +2,7 @@
 
 [![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/clint77/ruby-blog)
 
-[![Test Coverage](https://codeclimate.com/github/codeclimate/codeclimate/badges/coverage.svg)](https://codeclimate.com/github/clint77/ruby-blog/coverage)
+[![Test Coverage](https://codeclimate.com/github/clint77/ruby-blog/coverage.svg)](https://codeclimate.com/github/clint77/ruby-blog/coverage)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
